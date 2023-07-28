@@ -1,8 +1,6 @@
 ﻿using System;
 using static System.Console;
 
-//LALALALALLA
-
 Clear();
 
 int count = 0;
